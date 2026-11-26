@@ -156,6 +156,150 @@
           "review": null
         }
       ]
+    },
+    {
+      "host": "storage.333.eco",
+      "body": "333.eco · shared services",
+      "doc": "copyright",
+      "title": "Copyright and takedown",
+      "versions": [
+        {
+          "id": "2026-11-25-d84afd",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "d84afdbbb976b320c6be6f102babbfe7072933f02768522267956758c99a8062",
+          "path": "storage.333.eco/copyright/2026-11-25-d84afd.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "sayyourname.app",
+      "body": "Factory 333™",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-25-f2894c",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "f2894ca3eac636b670ecb39ab80ef4deb21153317117fde596940ec4047ae061",
+          "path": "sayyourname.app/privacy/2026-11-25-f2894c.md",
+          "operator": "Factory 333™",
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "missaquarius.org",
+      "body": "Miss Aquarius℠",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-25-975fd5",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "975fd59589e89dd0edd6847129ea7ae4c9846738d53a69d313a4d0e0d1579c5d",
+          "path": "missaquarius.org/privacy/2026-11-25-975fd5.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "missaquarius.com",
+      "body": "Miss Aquarius℠",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-25-213632",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "213632af0dae2daed36c5e6da4dc635cf1e764bc2e563bbe0c32725ea44ab813",
+          "path": "missaquarius.com/privacy/2026-11-25-213632.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": null,
+      "body": "For every service",
+      "doc": "acceptable-use",
+      "title": "Acceptable use",
+      "versions": [
+        {
+          "id": "2026-11-25-b9a7a6",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "b9a7a6c637235210b12de6b0b2ccbcda1ddd8e68f4cdc9b16a01835d933ec1a0",
+          "path": "acceptable-use/2026-11-25-b9a7a6.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": null,
+      "body": "For every service",
+      "doc": "security",
+      "title": "Security policy",
+      "versions": [
+        {
+          "id": "2026-11-25-d63806",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "d63806c5330d6a4b0b075d7f14e8d5fae3a615f9ac8ac21dced7a456a078eda6",
+          "path": "security/2026-11-25-d63806.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": null,
+      "body": "For every service",
+      "doc": "operators",
+      "title": "Operators",
+      "versions": [
+        {
+          "id": "2026-11-25-51dd66",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "51dd667d13ae35079ee42b47f4f020b9eeafd9daede0c6cd7ae48e402914a6c0",
+          "path": "operators/2026-11-25-51dd66.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": null,
+      "body": "For every service",
+      "doc": "trademarks",
+      "title": "Trademark guidelines",
+      "versions": [
+        {
+          "id": "2026-11-25-21291e",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "21291ef68c2d219008303a61f9e5abf2d4e631c5c59e260c0100faf4c3d69d43",
+          "path": "trademarks/2026-11-25-21291e.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
     }
   ]
 }
