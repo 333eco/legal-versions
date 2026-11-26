@@ -171,6 +171,16 @@
           "operator": "Thon Ly",
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-3d142b",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "3d142b8fd1b76a57d65250c67235023057e613b5669c9d938bc420b5af459d00",
+          "path": "ocr.siliconwat.dev/terms/2026-11-26-3d142b.md",
+          "operator": "Thon Ly",
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -207,6 +217,16 @@
           "operator": "Factory 333™",
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-08705d",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "08705d51cf9892208fe00797e6710dc178c4988283f83085b13b834cd5f01a6f",
+          "path": "sayyourname.app/privacy/2026-11-26-08705d.md",
+          "operator": "Factory 333™",
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -225,6 +245,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-0f3b01",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "0f3b01bcc34c3b86cb1d9ac30a69eb8eaefb4b1bc38f0aeeb6893fca8c350e3f",
+          "path": "missaquarius.org/privacy/2026-11-26-0f3b01.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -242,6 +272,16 @@
           "path": "missaquarius.com/privacy/2026-11-25-213632.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-684844",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "684844582f205b18b908f358791929382870be66432ffbbe8764e892f64187d7",
+          "path": "missaquarius.com/privacy/2026-11-26-684844.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
