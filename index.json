@@ -102,6 +102,42 @@
           "review": null
         }
       ]
+    },
+    {
+      "host": "storage.333.eco",
+      "body": "333.eco · shared services",
+      "doc": "terms",
+      "title": "Terms of use",
+      "versions": [
+        {
+          "id": "2026-11-23-959092",
+          "dateLine": "Draft of 23 November 2026.",
+          "date": "2026-11-23",
+          "sha256": "9590929d1bc6072f056810a7ac23ef0d30294fef7093443476f3488f35898977",
+          "path": "storage.333.eco/terms/2026-11-23-959092.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "storage.333.eco",
+      "body": "333.eco · shared services",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-23-ee6581",
+          "dateLine": "Draft of 23 November 2026.",
+          "date": "2026-11-23",
+          "sha256": "ee6581ddbe115ccebeee89c4fcd4bcce2e5c6d945f6f14af64adc7726d0a92a4",
+          "path": "storage.333.eco/privacy/2026-11-23-ee6581.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
     }
   ]
 }
