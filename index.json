@@ -539,6 +539,16 @@
           "operator": "Lucky Fate LLC",
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-5a4be1",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "5a4be13e66a099ba4169ba7361245299635d75457a365710fc94e06ce8894261",
+          "path": "billing.thonly.com/refunds/2026-11-26-5a4be1.md",
+          "operator": "Lucky Fate LLC",
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     }
