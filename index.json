@@ -138,6 +138,24 @@
           "review": null
         }
       ]
+    },
+    {
+      "host": "ocr.siliconwat.dev",
+      "body": "Silicon Wat℠",
+      "doc": "terms",
+      "title": "Privacy and terms",
+      "versions": [
+        {
+          "id": "2026-11-20-eb1e11",
+          "dateLine": "Draft of 20 November 2026.",
+          "date": "2026-11-20",
+          "sha256": "eb1e119d137e5a35aab1487706564fe52ec69ebb98ebfe51b2fdc65880f024b3",
+          "path": "ocr.siliconwat.dev/terms/2026-11-20-eb1e11.md",
+          "operator": "Thon Ly",
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
     }
   ]
 }
