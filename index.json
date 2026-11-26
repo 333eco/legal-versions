@@ -280,6 +280,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-25-430e9d",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "430e9dc23b704c91b650b15448e543d0d3091f7e2646c5bc2139900a5664fa4e",
+          "path": "operators/2026-11-25-430e9d.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
         }
       ]
     },
@@ -332,6 +342,24 @@
           "sha256": "f69d9030d195c67f5dd62676bf23e3b8733879fa48db30bd33526699cc9c2b09",
           "path": "333.eco/privacy/2026-11-25-f69d90.md",
           "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "billing.thonly.com",
+      "body": "THonly™",
+      "doc": "refunds",
+      "title": "Refunds and cancellation",
+      "versions": [
+        {
+          "id": "2026-11-25-b99f1a",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "b99f1ae139ac78aa23368f39afc3c395df8427d2d0cc565472ef1ba69460d1fd",
+          "path": "billing.thonly.com/refunds/2026-11-25-b99f1a.md",
+          "operator": "Lucky Fate LLC",
           "firstServed": "2026-11-25",
           "review": null
         }
