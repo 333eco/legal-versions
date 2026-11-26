@@ -300,6 +300,42 @@
           "review": null
         }
       ]
+    },
+    {
+      "host": "333.eco",
+      "body": "333.eco · shared services",
+      "doc": "terms",
+      "title": "Terms of service",
+      "versions": [
+        {
+          "id": "2026-11-25-00707d",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "00707d58b6a19574ebb854f54b7d0ad4888e68e61b8082ac1f0ba2704be084c1",
+          "path": "333.eco/terms/2026-11-25-00707d.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
+    },
+    {
+      "host": "333.eco",
+      "body": "333.eco · shared services",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-25-f69d90",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "f69d9030d195c67f5dd62676bf23e3b8733879fa48db30bd33526699cc9c2b09",
+          "path": "333.eco/privacy/2026-11-25-f69d90.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
     }
   ]
 }
