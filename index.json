@@ -71,6 +71,16 @@
           "operator": "Lucky Fate LLC",
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-981667",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "9816672ec66bb8e479db0a65d4efb7c265d5f84f5c43ac23b60174cf53db63ac",
+          "path": "developers.333.eco/terms/2026-11-26-981667.md",
+          "operator": "Lucky Fate LLC",
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -99,6 +109,16 @@
           "operator": "Lucky Fate LLC",
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-0e5c2b",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "0e5c2b897cb1857b19d6dbe0c6494573c455dbf98ba93c0371bf35c1b18ec93d",
+          "path": "developers.333.eco/privacy/2026-11-26-0e5c2b.md",
+          "operator": "Lucky Fate LLC",
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -116,6 +136,16 @@
           "path": "legal.333.eco/privacy/2026-11-25-e9fa93.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-b2a0ae",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "b2a0ae03edf97498df14535be33676c175a227ab324bb750307a5d33ea7c271f",
+          "path": "legal.333.eco/privacy/2026-11-26-b2a0ae.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
@@ -135,6 +165,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-0c08a7",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "0c08a716b971a130cd7c81bd04843ce41577cc22681f426b948fbfddd48fccb3",
+          "path": "storage.333.eco/terms/2026-11-26-0c08a7.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -152,6 +192,16 @@
           "path": "storage.333.eco/privacy/2026-11-23-ee6581.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-6a5fbc",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "6a5fbc080914a9245fc71db362df2e4cc5479e2d22e750e1c40812772343a833",
+          "path": "storage.333.eco/privacy/2026-11-26-6a5fbc.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
@@ -198,6 +248,16 @@
           "path": "storage.333.eco/copyright/2026-11-25-d84afd.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-24e3c4",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "24e3c47ffbc8994e6f16f956e0b9a8fb1cfc0ba4b60b765fc21a461a6520fd19",
+          "path": "storage.333.eco/copyright/2026-11-26-24e3c4.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
@@ -301,6 +361,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-e958d2",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "e958d259941469502d240f3b626f06e431c46b79d8428679c05f28541a9dd572",
+          "path": "acceptable-use/2026-11-26-e958d2.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -318,6 +388,16 @@
           "path": "security/2026-11-25-d63806.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-eccad5",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "eccad566b1e60d5bbbcdd767f6ad48fc9f0b7ead6ec710b8ea9f615a195e887c",
+          "path": "security/2026-11-26-eccad5.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
@@ -347,6 +427,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-92cf04",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "92cf04e4663290e26949880e943b54018be1564f211a9e6fc0725c420fa4cdfe",
+          "path": "operators/2026-11-26-92cf04.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
+          "review": null
         }
       ]
     },
@@ -364,6 +454,16 @@
           "path": "trademarks/2026-11-25-21291e.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-8dc1ad",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "8dc1ade752e96779e75796cb9412a28056649278588f462887a5f512c0f27805",
+          "path": "trademarks/2026-11-26-8dc1ad.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
           "review": null
         }
       ]
