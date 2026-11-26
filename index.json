@@ -84,6 +84,24 @@
           "review": null
         }
       ]
+    },
+    {
+      "host": "legal.333.eco",
+      "body": "333.eco · shared services",
+      "doc": "privacy",
+      "title": "Privacy policy",
+      "versions": [
+        {
+          "id": "2026-11-25-e9fa93",
+          "dateLine": "Draft of 25 November 2026.",
+          "date": "2026-11-25",
+          "sha256": "e9fa93a14e508ad5331e722649c3a93f544cdc9b3e96f44a662a3dee134f7891",
+          "path": "legal.333.eco/privacy/2026-11-25-e9fa93.md",
+          "operator": null,
+          "firstServed": "2026-11-25",
+          "review": null
+        }
+      ]
     }
   ]
 }
