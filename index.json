@@ -46,6 +46,23 @@
       "title": "Developer terms",
       "versions": [
         {
+          "id": "2026-11-16-b27c81",
+          "dateLine": "Draft of 16 November 2026.",
+          "date": "2026-11-16",
+          "sha256": "b27c81a3606676495136b1c39aeeb0de938e9c1eb785a2bd6eae2fb31902057e",
+          "path": "developers.333.eco/terms/2026-11-16-b27c81.md",
+          "operator": null,
+          "firstServed": "2026-11-26",
+          "review": null,
+          "source": {
+            "kind": "repository and deploy record",
+            "commit": "e61e389cd647bbc2ed6b09ac532af8fce43c7e40",
+            "deployedAt": "2026-11-16T16:19:02-08:00",
+            "revision": "developers-00051-tjj",
+            "until": "2026-11-25T13:56:32-08:00"
+          }
+        },
+        {
           "id": "2026-11-25-5bb210",
           "dateLine": "Draft of 25 November 2026.",
           "date": "2026-11-25",
