@@ -139,6 +139,16 @@
           "operator": "Lucky Fate LLC",
           "firstServed": "2026-11-26",
           "review": null
+        },
+        {
+          "id": "2026-11-27-c73e75",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "c73e75472b54003f6b8a682b32f1b7aee5ab068ac7858cd0eec4eddde648a982",
+          "path": "developers.333.eco/privacy/2026-11-27-c73e75.md",
+          "operator": "Lucky Fate LLC",
+          "firstServed": "2026-11-27",
+          "review": null
         }
       ]
     },
@@ -533,6 +543,16 @@
           "operator": "Nhia Kou LLC",
           "firstServed": "2026-11-27",
           "review": null
+        },
+        {
+          "id": "2026-11-27-9f6c55",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "9f6c55a2ebd7595f1cf75fc2ce27f07e3d996dc32f68935a0b6461ac0782d52e",
+          "path": "333.eco/terms/2026-11-27-9f6c55.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-27",
+          "review": null
         }
       ]
     },
@@ -588,6 +608,16 @@
           "date": "2026-11-27",
           "sha256": "31122b9ed1c368999bcf96f1c83a08c4d6c34b6a4a37128e15f71f0a0f81fa4c",
           "path": "333.eco/privacy/2026-11-27-31122b.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-27",
+          "review": null
+        },
+        {
+          "id": "2026-11-27-3c1b13",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "3c1b1302fd850d128120cd1bbaf29224727940b627dabe83ade3ed61fd9a666c",
+          "path": "333.eco/privacy/2026-11-27-3c1b13.md",
           "operator": "Nhia Kou LLC",
           "firstServed": "2026-11-27",
           "review": null
