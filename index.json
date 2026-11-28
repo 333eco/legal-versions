@@ -467,6 +467,16 @@
           "operator": null,
           "firstServed": "2026-11-26",
           "review": null
+        },
+        {
+          "id": "2026-11-26-f98620",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "f98620173b0994e4f46ddcd258f6f1a07049cd31085c6f2dad7fc1baadc3043f",
+          "path": "operators/2026-11-26-f98620.md",
+          "operator": null,
+          "firstServed": "2026-11-28",
+          "review": null
         }
       ]
     },
