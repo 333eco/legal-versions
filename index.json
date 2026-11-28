@@ -18,6 +18,16 @@
           "operator": null,
           "firstServed": "2026-11-25",
           "review": null
+        },
+        {
+          "id": "2026-11-26-29e84f",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "29e84f54e837b8908a5e753f9fd635f9c2e748bd8740dcfb65568a67065a9ec4",
+          "path": "earth.333.eco/terms/2026-11-26-29e84f.md",
+          "operator": null,
+          "firstServed": "2026-11-27",
+          "review": null
         }
       ]
     },
@@ -35,6 +45,16 @@
           "path": "earth.333.eco/privacy/2026-11-09-5d3547.md",
           "operator": null,
           "firstServed": "2026-11-25",
+          "review": null
+        },
+        {
+          "id": "2026-11-26-6a4659",
+          "dateLine": "Draft of 26 November 2026.",
+          "date": "2026-11-26",
+          "sha256": "6a4659723d9f0c6b30ee134cb352be9cb607d85287e2750b63ccd6c93c829d5c",
+          "path": "earth.333.eco/privacy/2026-11-26-6a4659.md",
+          "operator": null,
+          "firstServed": "2026-11-27",
           "review": null
         }
       ]
@@ -558,6 +578,16 @@
           "date": "2026-11-27",
           "sha256": "261373418b9334cea5b18cc2ff823248662e38255b6a9073a1ccda2d66977169",
           "path": "333.eco/privacy/2026-11-27-261373.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-27",
+          "review": null
+        },
+        {
+          "id": "2026-11-27-31122b",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "31122b9ed1c368999bcf96f1c83a08c4d6c34b6a4a37128e15f71f0a0f81fa4c",
+          "path": "333.eco/privacy/2026-11-27-31122b.md",
           "operator": "Nhia Kou LLC",
           "firstServed": "2026-11-27",
           "review": null
