@@ -503,6 +503,16 @@
           "operator": "Nhia Kou LLC",
           "firstServed": "2026-11-27",
           "review": null
+        },
+        {
+          "id": "2026-11-27-5c7cc5",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "5c7cc5e7bd096c18cf112cb1fb97357a82291417fa5fd73f6d5664e631ad1dd4",
+          "path": "333.eco/terms/2026-11-27-5c7cc5.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-27",
+          "review": null
         }
       ]
     },
@@ -538,6 +548,16 @@
           "date": "2026-11-27",
           "sha256": "1fd28997e11ce7d221e1bc37add7c77e8148140ce03d93b4ba96db3cad370b72",
           "path": "333.eco/privacy/2026-11-27-1fd289.md",
+          "operator": "Nhia Kou LLC",
+          "firstServed": "2026-11-27",
+          "review": null
+        },
+        {
+          "id": "2026-11-27-261373",
+          "dateLine": "Draft of 27 November 2026.",
+          "date": "2026-11-27",
+          "sha256": "261373418b9334cea5b18cc2ff823248662e38255b6a9073a1ccda2d66977169",
+          "path": "333.eco/privacy/2026-11-27-261373.md",
           "operator": "Nhia Kou LLC",
           "firstServed": "2026-11-27",
           "review": null
